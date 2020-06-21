@@ -1,0 +1,13 @@
+
+.square {
+  width: 15vw;
+  height: 15vw;
+  border: 2px solid green;
+}
+
+.flex-container {
+  display: flex;
+  max-width: 45vw;
+  flex-wrap: wrap;
+  margin: auto;
+}
